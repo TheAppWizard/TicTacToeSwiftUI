@@ -12,6 +12,10 @@ Third Case : 'GameOver : Match Tied'
 ## Color Scheme 
 From Dribble : `Tic Tac Toe`
 
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+## Color in XCAssets
+```
+1. colorBackground
+2. color 1
+3. Some Extra Assets
+```
 
